@@ -45,3 +45,9 @@ Be aware that not all algorithms support checkpointing. SageMaker built-in algor
 
 * [Optimizing and Scaling Machine Learning Training
 with Managed Spot Training for Amazon SageMaker](https://aws.amazon.com/getting-started/hands-on/managed-spot-training-sagemaker/)
+
+
+
+## Experiment ##
+
+* https://www.youtube.com/watch?v=zLOMYKZGxK0&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz&index=13
