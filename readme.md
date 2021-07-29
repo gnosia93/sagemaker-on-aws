@@ -19,3 +19,8 @@ estimator = sagemaker.estimator.Estimator(
     output_path="[S3_OUTPUT_PATH]"
 )
 ```
+
+- train_use_spot_instances - Specifies whether to use SageMaker Managed Spot instances for training. If enabled then the train_max_wait arg should also be set.
+- train_max_wait - Timeout in seconds waiting for spot training instances (default: None). After this amount of time Amazon SageMaker will stop waiting for Spot -  instances to become available.
+- train_max_run - Timeout in seconds for training (default: 24 * 60 * 60). After this amount of time Amazon SageMaker terminates the job regardless of its current status.
+- checkpoint_s3_uri - The S3 URI in which to persist checkpoints that the algorithm persists (if any) during training.
