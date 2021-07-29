@@ -24,3 +24,13 @@ estimator = sagemaker.estimator.Estimator(
 - train_max_wait - Timeout in seconds waiting for spot training instances (default: None). After this amount of time Amazon SageMaker will stop waiting for Spot -  instances to become available.
 - train_max_run - Timeout in seconds for training (default: 24 * 60 * 60). After this amount of time Amazon SageMaker terminates the job regardless of its current status.
 - checkpoint_s3_uri - The S3 URI in which to persist checkpoints that the algorithm persists (if any) during training.
+
+
+Checkpointing
+A checkpoint is a snapshot of the state of the model as the model progresses through training iterations. They can be used with Managed Spot Training to allow for recovery of training progress in the event if an interruption. If a training job is interrupted, and training begins on a new instance, the checkpoint can be loaded to resume training from the previously saved point. This can save training time and minimize the impact of an interruption to your model training.
+
+Snapshots are saved to an Amazon S3 location you specify. You can configure the local path to use for snapshots or use the default. When a training job is interrupted, Amazon SageMaker copies the training data to Amazon S3. When the training job is restarted, the checkpoint data is copied to the local path. It can be used to resume at the checkpoint.
+
+To enable checkpoints, provide an Amazon S3 location. You can optionally provide a local path and choose to use a shared folder.
+
+Be aware that not all algorithms support checkpointing. SageMaker built-in algorithms and marketplace algorithms that do not checkpoint are currently limited to a MaxWaitTimeInSeconds of 3600 seconds (60 minutes).
