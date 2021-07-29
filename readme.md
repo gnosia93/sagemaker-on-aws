@@ -48,6 +48,6 @@ with Managed Spot Training for Amazon SageMaker](https://aws.amazon.com/getting-
 
 
 
-## Experiment ##
+## Sagemaker Experiments ##
 
 * https://www.youtube.com/watch?v=zLOMYKZGxK0&list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz&index=13
