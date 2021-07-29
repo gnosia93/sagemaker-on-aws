@@ -56,8 +56,7 @@ with Managed Spot Training for Amazon SageMaker](https://aws.amazon.com/getting-
 * https://aws.amazon.com/blogs/compute/best-practices-for-handling-ec2-spot-instance-interruptions/
 
 * [Amazon SageMaker Studio - Managed Spot Training](https://www.youtube.com/watch?v=jH7X5jSmVPU)
-
-
+* [매니지드 스팟 ](https://mkai.org/implement-checkpointing-with-tensorflow-for-amazon-sagemaker-managed-spot-training/)
 
 ## Sagemaker Experiments ##
 
