@@ -9,6 +9,11 @@
 * https://docs.aws.amazon.com/sagemaker/latest/dg/train-debugger.html
 
 
+## HPO ##
+
+* https://docs.aws.amazon.com/sagemaker/latest/dg/automatic-model-tuning.html
+
+
 ## Spot instance training ##
 
 * https://ec2spotworkshops.com/using-sagemaker-managed-spot-training.html
