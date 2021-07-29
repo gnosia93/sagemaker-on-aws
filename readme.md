@@ -1,5 +1,6 @@
 * https://aws.amazon.com/ko/sagemaker/developer-resources/
 
+* https://github.com/aws/amazon-sagemaker-examples
 
 
 ## Spot instance training ##
@@ -58,3 +59,6 @@ with Managed Spot Training for Amazon SageMaker](https://aws.amazon.com/getting-
 * AWS re:Invent 2020: Choose the right machine learning algorithm in Amazon SageMaker
 
 https://www.youtube.com/watch?v=Y8FzvaQBS6s&list=PL2yQDdvlhXf_HPltTZk4m2McAsh6C_C3z&index=20
+
+
+
