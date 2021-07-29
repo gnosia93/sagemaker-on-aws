@@ -1,5 +1,5 @@
 
-### spot instance ###
+## spot instance training ##
 
 * https://ec2spotworkshops.com/using-sagemaker-managed-spot-training.html
 
