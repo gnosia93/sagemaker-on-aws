@@ -4,6 +4,10 @@
 
 * https://github.com/aws/amazon-sagemaker-examples
 
+## Debugger ##
+
+* https://docs.aws.amazon.com/sagemaker/latest/dg/train-debugger.html
+
 
 ## Spot instance training ##
 
