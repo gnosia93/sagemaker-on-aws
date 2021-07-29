@@ -1,5 +1,8 @@
+* https://aws.amazon.com/ko/sagemaker/developer-resources/
 
-## spot instance training ##
+
+
+## Spot instance training ##
 
 * https://ec2spotworkshops.com/using-sagemaker-managed-spot-training.html
 
