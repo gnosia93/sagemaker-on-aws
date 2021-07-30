@@ -75,4 +75,8 @@ with Managed Spot Training for Amazon SageMaker](https://aws.amazon.com/getting-
 https://www.youtube.com/watch?v=Y8FzvaQBS6s&list=PL2yQDdvlhXf_HPltTZk4m2McAsh6C_C3z&index=20
 
 
+## Airflow ##
+
+* https://aws.amazon.com/ko/blogs/korea/build-end-to-end-machine-learning-workflows-with-amazon-sagemaker-and-apache-airflow/
+
 
