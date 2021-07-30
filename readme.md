@@ -1,3 +1,8 @@
+## data ##
+
+* https://github.com/sdv-dev/CTGAN
+
+
 ## Overview ##
 
 * https://aws.amazon.com/ko/sagemaker/developer-resources/
