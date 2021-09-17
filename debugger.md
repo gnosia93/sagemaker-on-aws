@@ -1,6 +1,7 @@
 ### 트레이닝 종료하기 ###
 
 * https://docs.aws.amazon.com/sagemaker/latest/dg/debugger-action-on-rules.html
+* https://docs.aws.amazon.com/sagemaker/latest/dg/debugger-cloudwatch-lambda.html
 
 Run Example Notebooks to Test Automated Training Job Termination
 You can run the following example notebooks, which are prepared for experimenting with stopping a training job using Debugger's built-in rules.
