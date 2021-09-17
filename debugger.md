@@ -13,6 +13,7 @@ This example notebook runs a training job that has a vanishing gradient issue. T
 Detect stalled training and stop training job using Debugger rule
 
 This example notebook runs a training script with a code line that forces it to sleep for 10 minutes. The Debugger StalledTrainingRule built-in rule invokes issues and stops the training job.
+
  ----
 
 * https://docs.aws.amazon.com/sagemaker/latest/dg/use-debugger-built-in-rules.html#debugger-deploy-built-in-rules
