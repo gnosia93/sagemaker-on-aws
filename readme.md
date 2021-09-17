@@ -1,3 +1,13 @@
+
+### debugger ###
+
+* 빌트인 룰 적용하기 
+* https://docs.aws.amazon.com/sagemaker/latest/dg/use-debugger-built-in-rules.html#debugger-deploy-built-in-rules
+
+
+
+-----
+
 ## data ##
 
 * https://github.com/sdv-dev/CTGAN
